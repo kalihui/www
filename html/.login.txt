@@ -1,0 +1,20 @@
+
+    #wordpress_db
+        Title: <Diary>
+        Account: <kaihui>
+        Passwd: <l!^6R84a(tz51$9bcy>
+        E-mail: <andornor@163.com>
+
+    #wp_blog1
+     Account: <kaihuix>
+     Passwd: <pdbJD4t*Yw2xxTGOVl>
+     E-mail: <callmesillyboy@sina.cn>
+    
+    
+    #wp_blog2
+     Account: <kaihuix>
+     Passwd: <pdbJD4t*Yw2xxTGOVl>
+     E-mail: <callmesillyboy@sina.cn>
+    
+    #http://api.hostinger.com.hk/redir/5983330
+     1qaz23456789wsx
